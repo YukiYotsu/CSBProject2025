@@ -30,3 +30,7 @@ UHCSBaseP/
 ## ToDo
 - create web application
 - include at least *5* different flaws from the OWASP top ten list *2021*.
+
+## Thanks to...
+[1] https://benjamin.co.jp/blog/technologies/django-blog1/  
+[2] 

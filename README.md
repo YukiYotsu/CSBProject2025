@@ -10,22 +10,19 @@ I'm Yuki Yotsumoto. This repository has been opened for the course called "Cyber
 ## How to start my App
 
 ## Directory structure
-UHCSBaseP/  
+CSBProject2025/  
 &emsp;┣━━━━ README.md (this file)  
-&emsp;┣━┳━━ security_inves/  
-&emsp;┃&emsp;┣━┳━━ myproject/  
+&emsp;┣━━━━ requirements.txt  
+&emsp;┣━┳━━ unsafepoll/  
+&emsp;┃&emsp;┣━┳━━ unsafepoll/  
 &emsp;┃&emsp;┃&emsp;┣━━━━ ```__init__.py```  
 &emsp;┃&emsp;┃&emsp;┣━━━━ asgi.py  
 &emsp;┃&emsp;┃&emsp;┣━━━━ settings.py  
 &emsp;┃&emsp;┃&emsp;┣━━━━ urls.py  
 &emsp;┃&emsp;┃&emsp;┣━━━━ wsgi.py  
-&emsp;┃&emsp;┣━━━━ venv/  
-&emsp;┃&emsp;┃ ...  
-&emsp;┃&emsp;┣━━━━ core.py  
 &emsp;┃&emsp;┣━━━━ db.sqlite3  
 &emsp;┃&emsp;┣━━━━ manage.py  
-&emsp;┃&emsp;┣━━━━ requirements.txt  
-&emsp;┃&emsp;┗━━━━ views.py  
+&emsp;┃&emsp;┗━━━━ get-pip.py    
 
 ## ToDo
 - create web application

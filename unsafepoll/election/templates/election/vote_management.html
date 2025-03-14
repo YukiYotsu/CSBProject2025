@@ -1,0 +1,8 @@
+<!-- vote/templates/vote/vote_management.html -->
+
+<h1>投票結果の管理</h1>
+<ul>
+  {% for vote in votes %}
+    <li>{{ vote.name }}: {{ vote.vote_count }}</li>
+  {% endfor %}
+</ul>

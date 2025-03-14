@@ -1,0 +1,6 @@
+<!-- vote/templates/vote/vote_form.html -->
+<form method="POST">
+    {% csrf_token %}
+    <input type="text" name="vote_choice" value="Choice1">
+    <button type="submit">投票</button>
+</form>
